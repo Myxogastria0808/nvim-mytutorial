@@ -94,4 +94,4 @@ Space + o
 
 ### 参考サイト
 
-{% embed url="https://qiita.com/hukuro310/items/95fc18babbd2c736590c" %}
+https://qiita.com/hukuro310/items/95fc18babbd2c736590c
